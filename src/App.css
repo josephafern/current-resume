@@ -234,11 +234,8 @@ table {
 	display: grid;
 	position: sticky;
 	width: 100%;
-	
 	grid-template: 100% / repeat(4, 1fr);
 	top: 0;
-	justify-items: center;
-	align-items: center;
 	grid-column-gap: 0.5rem;
 	border: 0.5rem solid black;
 	border-left: none;
@@ -264,6 +261,9 @@ a .nav-btn:hover {
 	color: white;
 	text-align: center;
 	height: 3.75rem;
+	display: flex;
+	align-items: center;
+	justify-content: center;
 }
 
 .nav-btn span {
@@ -349,6 +349,11 @@ h2 span {
 .objective, .education, .portfolio, .rel-exp {
 	padding-top: 2rem;
 	
+}
+
+.portfolio h3 {
+	padding-left: 2rem;
+	padding-top: 2rem;
 }
 
 .rel-exp h3 {
