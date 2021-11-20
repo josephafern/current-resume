@@ -33,7 +33,7 @@ export class Resume extends React.Component {
 					</h2>
 			<div id="objective-grid">
 				<img src={seal}/>
-				<p>Stanford graduate skilled in analytical research, project management and content editing, looking to learn from and contribute to the success of an organization.</p>	
+				<p>Full Stack Software Engineer looking to contribute to the success, productively and culturally, of an organization.</p>	
 			</div>
 			</div>
 			<div id='education'></div>
