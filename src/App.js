@@ -96,6 +96,7 @@ export class Resume extends React.Component {
 								<li>Acted as frontend lead, directing the UI/UX and React-Redux implementation of project, creating an application state to increase efficiency and directing the design protocol for the product.</li>
 								<li>Spearheaded user journey success, with focus on Front End routes using React-Router-Dom, as well as CSS styling/positioning and Redux cycle persistence.</li>
 								<li>Implemented User Authentication, User Profiles, Chat functionality, Profile-JobListing Matching interface and matching algorithm, as well as CRUD functionality on User Profiles and profile information items. </li>
+								<li>Responsibly managed a git workflow between four people using branches, pull requests and requiring merge conflict reviews before each push to the main branch.</li>
 					</ul>
 				<h3>BombermanJS</h3>
 					<p>Javascript clone of classic Nintendo game, Bomberman </p>

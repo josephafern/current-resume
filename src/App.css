@@ -448,3 +448,14 @@ h2 span {
 	height: auto;
 	text-decoration: none;
 }
+
+.portfolio ul {
+	list-style: circle;
+	padding: 1rem 5rem;
+	font-family: 'Nunito', sans-serif;
+	font-size: 18px;
+}
+
+.portfolio li {
+	padding: 10px 0;
+}
