@@ -6,7 +6,7 @@ import { MdFastfood } from 'react-icons/md';
 import { ImBriefcase } from 'react-icons/im';
 
 export class Resume extends React.Component {
-	//Is super-ing props necessary in this context?
+	//Is super-ing props necessary?
 	constructor(props){
 		super(props);
 	}
