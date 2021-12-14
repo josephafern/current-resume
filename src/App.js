@@ -63,7 +63,7 @@ export class Resume extends React.Component {
 			<div className="rel-exp">
 				<h2><span>Experience:</span></h2>
 				<h3>Computer Science Background</h3>
-					<p>Core CS curriculum at Stanford. Freelance work for various organizations. Recently completed App Academy's 16-week Full Stack Bootcamp. Proficient in React, Redux, JavaScript ES6, HTML5, CSS3, Canvas API, AWS, Heroku, Ruby, Ruby on Rails,  jQuery, AJAX, Axios, jBuilder, SQL, postgreSQL, Mongo.db, Mongoose, Express.js, Node.js, Postman and Webpack</p>
+					<p>Core CS curriculum at Stanford. Freelance work for various organizations. Recently completed App Academy's 16-week Full Stack Bootcamp. Proficient in React, Redux, JavaScript ES6, HTML5, CSS3, Canvas API, AWS, Heroku, Ruby, Ruby on Rails,  jQuery, AJAX, Axios, jBuilder, SQL, PostgreSQL, Mongo.db, Mongoose, Express.js, Node.js, Postman and Webpack</p>
 				<h3>Pre-Colonial & Contemporary Philosophy</h3>
 					<p>Series of Stanford courses focused on philosophical ideologies
 					and the sociological implications of their effects on human 
