@@ -6,7 +6,6 @@ import { MdFastfood } from 'react-icons/md';
 import { ImBriefcase } from 'react-icons/im';
 
 export class Resume extends React.Component {
-	//Constructor method
 	constructor(props){
 		super(props);
 	}
